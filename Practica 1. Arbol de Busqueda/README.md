@@ -1,5 +1,5 @@
-# Practica 1. Arbol de Busqueda
+# Arbol de Busqueda
 
-La práctica 1 se encuentra en este repositorio:
+La práctica del Arbol de Busqueda se encuentra en este repositorio:
 
 ## [Practica 1. Arbol de Busqueda](https://github.com/alu0101128894/Arbol-Busqueda-IA)
